@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s0e09t90nb",
+  "description": "https://v2.scrimba.com/s0e09t90nb",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest",
+    "imba": "latest"
+  },
+  "devDependencies": {}
+}
