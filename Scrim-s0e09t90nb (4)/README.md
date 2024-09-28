@@ -18,6 +18,18 @@ GUIDE SECTION: A quirky introduction of me:
 I have lived at IRAN for over 30 years, so I can show you all of its best parts and hidden secrets.
 Personal Touch: Check out my GitHub to see what I'm up to. 
 
+How I start the project?
+
+1-Ensure all points are taken into consideration from Figma Template. → Figma Template from Scrimba
+
+2-Having a materials preparation document where I collect pictures/text information/text font/color to match a better visual communication and coherence in one page.
+
+3-It's important to brainstorm the HTML structure before starting coding, this step helps me save time.
+
+4-Use the "DRY" concept (Don't Repeat Yourself), so that I learn from tailoring the developer's code and learn from it and Scrimba course.
+
+5-To show the completed work between a Web and a template, I prefer refining the CSS code to make sure the project can align the design.
+
 
 The project consists of the following files:
 
